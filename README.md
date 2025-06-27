@@ -13,14 +13,6 @@ An AI-powered web application to detect plant diseases from leaf images using Co
 
 ---
 
-## 🚀 Demo
-
-> *(Add a demo image or gif here if available)*  
-> Example:  
-> ![System Workflow](images/workflow.png)
-
----
-
 ## 🛠️ Tech Stack
 
 | Component       | Technology          |
@@ -52,20 +44,5 @@ Each prediction comes with a practical cure suggestion based on known treatments
 **Example:**  
 - **Prediction:** `Tomato___Late_blight`  
 - **Cure:** Spray **Ridomil Gold** (Metalaxyl + Mancozeb). Remove sick plants.
-
----
-
-## 📁 Project Structure
-
-plant-disease-detection/
-│
-├── app.py # Flask backend
-├── model.h5 # Trained CNN model
-├── templates/
-│ └── index.html # Upload form UI
-├── static/ # CSS / JS / assets (optional)
-├── plantdisease_with_flask.ipynb # Training notebook
-├── README.md # Project info
-
 
 ---
